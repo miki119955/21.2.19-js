@@ -1,6 +1,6 @@
  /* exercise  1
 
-var x = ( prompt ("enterd first number ",0)
+var x =  prompt ("enterd first number ",0)
 var y = prompt ( "enter second number ",0)
 
 if  (x>y) { console.log ( x ) }
